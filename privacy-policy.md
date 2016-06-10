@@ -20,9 +20,7 @@ We may use the information we collect from you when you register, make a purchas
 
 ### How do we protect visitor information?
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-
-We use regular Malware Scanning.
+Our website is scanned on a regular basis for security holes, malware, and known vulnerabilities in order to make your visit to our site as safe as possible.
 
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
@@ -40,8 +38,6 @@ We use cookies to:
   - Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
-
-If users disable cookies in their browser:
 
 If you disable cookies, it will turn off some of the features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
@@ -86,11 +82,9 @@ Users will be notified of any privacy policy changes:
 Users are able to change their personal information:
   - By logging in to their account
 
-How does our site handle do not track signals?
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+It's also important to note that we allow third-party behavioral tracking.
 
-Does our site allow third-party behavioral tracking?
-It's also important to note that we allow third-party behavioral tracking
+If you prefer not to use any cookies, you can also opt out in some browsers by turning on “Do Not Track”. We currently do not support Do Not Track browser settings, but are committed to supporting it in the future once there is a consistent industry standard for compliance. We suggest disabling cookies manually in your browser before visiting our website as an alternative.
 
 ### COPPA (Children Online Privacy Protection Act)
 
